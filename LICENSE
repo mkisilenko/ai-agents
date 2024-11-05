@@ -1,21 +1,72 @@
-MIT License
+# Dual License
 
-Copyright (c) 2024 mkisilenko
+This repository and all its contents are available under two distinct licenses:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Educational and Non-Commercial License
+Copyright (c) Michael Kisilenko 2024
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and associated documentation files (the "Software") for educational and non-commercial purposes, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. Any modifications, improvements, or derivatives of the Software must be shared publicly under the same terms as this license.
+
+3. The Software may not be used for any commercial purpose under this license.
+
+4. Attribution to the original author must be maintained in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 2. Commercial License
+For commercial use of the Software, including but not limited to:
+- Integration into commercial products or services
+- Use in business operations
+- Any revenue-generating activities
+
+The following terms apply:
+
+1. A revenue-sharing agreement must be established with the original author ([Your Name]).
+   - 10% of gross revenue derived from the use of the Software must be paid to the original author
+   - Revenue reports must be provided quarterly
+   - Payments shall be made within 30 days of the end of each quarter
+
+2. Any modifications, improvements, or derivatives of the Software:
+   - Must be shared back to the original repository under the same dual-license terms
+   - Must maintain all copyright and attribution notices
+   - Must document all changes made to the original Software
+
+3. Prior written agreement:
+   - Commercial use requires prior written agreement from the original author
+   - Contact [Your Email] to establish a commercial license agreement
+
+4. Termination:
+   - The commercial license will terminate automatically if any condition is not met
+   - Upon termination, all rights to use the Software commercially cease immediately
+
+5. Audit Rights:
+   - The original author reserves the right to audit the use of the Software
+   - Users must maintain accurate records of the Software's usage and revenue generated
+
+## General Terms (Applicable to Both Licenses)
+
+1. Contributions:
+   - All contributions to this repository are subject to the same dual-license terms
+   - Contributors agree to grant the original author the right to relicense their contributions
+
+2. No Warranty:
+   - The Software is provided "as is" without warranty of any kind
+   - The original author is not liable for any damages arising from the use of the Software
+
+3. Attribution:
+   - All copies or substantial portions of the Software must maintain attribution to the original author
+   - The following format must be used for attribution:
+     "Based on work by [Your Name] ([Your Website/GitHub])"
+
+4. Governing Law:
+   - This license is governed by the laws of [Your Country/State]
+   - Any disputes shall be resolved in the courts of [Your Jurisdiction]
+
+For inquiries regarding commercial licensing or any questions about this dual license, please contact:
+Michael Kisilenko
+Email: michael@uvision.co.il
+Website: https://www.linkedin.com/in/michael-kisilenko-ceo/
