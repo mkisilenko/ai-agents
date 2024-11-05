@@ -1,0 +1,25 @@
+[PLACEHOLDER - UPCOMING AGENT PROMPT]
+
+This prompt template will be replaced with the official version upon release.
+
+Version: TBD
+Release Date: TBD
+Last Updated: TBD
+
+Basic Structure:
+1. System Instructions
+   [To be filled with agent-specific instructions]
+
+2. Core Capabilities
+   [To be filled with agent-specific capabilities]
+
+3. Response Format
+   [To be filled with agent-specific response format]
+
+4. Constraints & Guidelines
+   [To be filled with agent-specific constraints]
+
+5. Example Interactions
+   [To be filled with agent-specific examples]
+
+Note: This is a placeholder template and will be updated with the complete prompt engineering specifications upon official release.

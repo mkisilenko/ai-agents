@@ -1,0 +1,48 @@
+{
+    "agent": {
+        "id": "001",
+        "name": "CareerForge AI",
+        "version": "1.0.0",
+        "status": "released",
+        "release_date": "2024-11-06",
+        "last_updated": "2024-11-06"
+    },
+    "requirements": {
+        "model": "gpt-4 or claude-3",
+        "minimum_version": "gpt-4-0613",
+        "api_version": "2024-03-01"
+    },
+    "capabilities": {
+        "features": [
+            "Document Analysis",
+            "Content Optimization",
+            "Strategic Recommendations",
+            "ATS Optimization",
+            "Keyword Enhancement"
+        ],
+        "limitations": [
+            "Requires document upload",
+            "Text format only",
+            "Single document analysis per session"
+        ],
+        "supported_languages": [
+            "English",
+            "Hebrew"
+        ]
+    },
+    "configuration": {
+        "temperature": 0.7,
+        "max_tokens": 2500,
+        "top_p": 0.95,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0
+    },
+    "metadata": {
+        "author": "Michael Kisilenko",
+        "company": "UVISION",
+        "contact": "michael@uvision.co.il",
+        "website": "www.uvision.co.il",
+        "license": "Dual License - See main LICENSE file",
+        "tested_users": "100000+"
+    }
+}
