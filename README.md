@@ -1,6 +1,6 @@
-# 🤖 AI Career Development Agents Collection
+# 🤖 Job Huntting Pack of AI Agents
 
-> Transforming career development and job search through intelligent AI solutions
+> Transforming career development and job hunt through intelligent AI solutions
 
 ## 👋 About Me
 I'm Michael Kisilenko, an AI & Software Innovation Leader with 15+ years of deep experience in software development and AI transformation. As the Founder, CEO & CTO of UVISION, I specialize in turning complex challenges into elegant software solutions, with a particular focus on AI-driven innovations.
@@ -28,7 +28,7 @@ This repository contains a specialized collection of AI agents designed to revol
 ### Featured Agents
 | Agent ID | Name | Description | Use Case | Complexity | Release Date |
 |----------|------|-------------|-----------|------------|--------------|
-| 001 | LinkedIn & CV Master | Advanced AI agent for creating and optimizing professional LinkedIn profiles and CVs. Transforms your experience into compelling career narratives. | - Profile optimization<br>- CV enhancement<br>- Professional branding<br>- Content optimization | ⭐⭐⭐ | TBD |
+| 001 | CareerForge AI - LinkedIn & CV Optimizer | Advanced AI agent for creating and optimizing professional LinkedIn profiles and CVs. Transforms your experience into compelling career narratives. | - Profile optimization<br>- CV enhancement<br>- Professional branding<br>- Content optimization | ⭐⭐⭐ | TBD |
 | 002 | CV-Job Matcher | Intelligent analysis tool that evaluates CV-job compatibility and provides targeted optimization recommendations. Ensures your CV aligns perfectly with dream job requirements. | - Job matching analysis<br>- CV tailoring<br>- Gap identification<br>- Skill alignment | ⭐⭐⭐⭐ | TBD |
 | 003 | Cover Letter Genius | Specialized AI agent that crafts personalized, compelling cover letters tailored to specific job positions. Creates engaging narratives that highlight relevant experience. | - Custom cover letters<br>- Job-specific adaptation<br>- Professional tone setting<br>- Value proposition | ⭐⭐⭐ | TBD |
 | 004 | Interview Star | Comprehensive interview preparation agent that transforms candidates into confident interviewees. Provides advanced response strategies and situation handling. | - Interview preparation<br>- Response optimization<br>- Confidence building<br>- Scenario training | ⭐⭐⭐⭐⭐ | TBD |
