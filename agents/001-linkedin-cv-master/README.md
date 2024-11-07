@@ -53,8 +53,8 @@ CareerForge AI is a sophisticated AI agent designed to perform in-depth analysis
 
 ## 🔗 Resources
 - [How to Export LinkedIn Profile] - https://www.linkedin.com/feed/update/urn:li:activity:7259477309575872513/
-- [Best Practices Guide](TBD)
-- [Success Stories](TBD)
+- [Build your LinkedIn AI Optimizer Agent with Claude] - https://www.linkedin.com/feed/update/urn:li:activity:7260185516032118784/
+- [GPT store demo] - https://www.linkedin.com/feed/update/urn:li:activity:7259824872619474945/
 
 ## 📄 License
 Subject to repository dual-license terms:
