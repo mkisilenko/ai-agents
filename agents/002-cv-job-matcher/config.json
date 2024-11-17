@@ -1,27 +1,48 @@
 {
     "agent": {
-        "id": "00X",
-        "version": "0.0.0",
-        "status": "unreleased",
-        "release_date": "TBD",
-        "last_updated": "TBD"
+        "id": "002",
+        "name": "JobMatch AI",
+        "version": "1.0.0",
+        "status": "released",
+        "release_date": "2024-03-06",
+        "last_updated": "2024-03-06"
     },
     "requirements": {
-        "model": "TBD",
-        "minimum_version": "TBD",
-        "api_version": "TBD"
+        "model": "gpt-4 or claude-3",
+        "minimum_version": "gpt-4-0613",
+        "api_version": "2024-03-01",
+        "document_requirements": [
+            "job_description",
+            "cv_or_linkedin_profile"
+        ]
     },
     "capabilities": {
-        "features": ["TBD"],
-        "limitations": ["TBD"],
-        "supported_languages": ["TBD"]
+        "features": [
+            "Dual Document Analysis",
+            "Role Alignment",
+            "Gap Analysis",
+            "Career Path Optimization",
+            "Skill Mapping",
+            "ATS Optimization",
+            "Ethical Assessment"
+        ],
+        "limitations": [
+            "Requires both documents",
+            "Text format only",
+            "Single role analysis per session"
+        ],
+        "supported_languages": [
+            "English",
+            "Hebrew",
+            "Others"
+        ]
     },
     "configuration": {
-        "temperature": "TBD",
-        "max_tokens": "TBD",
-        "top_p": "TBD",
-        "frequency_penalty": "TBD",
-        "presence_penalty": "TBD"
+        "temperature": 0.7,
+        "max_tokens": 3000,
+        "top_p": 0.95,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0
     },
     "metadata": {
         "author": "Michael Kisilenko",
